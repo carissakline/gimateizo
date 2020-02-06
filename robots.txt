@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahdaokacae.rochack.org/sitemap.xml
